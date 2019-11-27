@@ -1,0 +1,10 @@
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\bin\Debug\VerticalFragment.exe.config
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\bin\Debug\VerticalFragment.exe
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\bin\Debug\VerticalFragment.pdb
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\obj\Debug\VerticalFragment.csprojAssemblyReference.cache
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\obj\Debug\VerticalFragment.Properties.Resources.resources
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\obj\Debug\VerticalFragment.csproj.GenerateResource.cache
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\obj\Debug\VerticalFragment.csproj.CoreCompileInputs.cache
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\obj\Debug\VerticalFragment.exe
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\obj\Debug\VerticalFragment.pdb
+C:\Users\HOÀNGMINHKHIÊM\source\repos\VerticalFragment\VerticalFragment\obj\Debug\VerticalFragment.UI_MainForm.resources
